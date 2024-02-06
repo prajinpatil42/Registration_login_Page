@@ -13,9 +13,6 @@
 ![logo](https://github.com/prajinpatil42/Registration_login_Page/blob/main/Images/6.png)
 
 
-![logo](https://github.com/prajinpatil42/Registration_login_Page/blob/main/Images/6.png)
-
-
 ![logo](https://github.com/prajinpatil42/Registration_login_Page/blob/main/Images/7.png)
 
 
